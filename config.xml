@@ -11,8 +11,13 @@ version ="1.0.0">
  Aplicacion que nos muestra la informacion referente al Dispositivo Movil 
 </description>
 
+<<<<<<< HEAD
 <author href="https://build.phonegap.com" email="lidia23@gmail.com">
 Blanca Lidia Arias Rojass
+=======
+<author href="https://build.phonegap.com" email="darwinjoaquinalarconbriones@gmail.com">
+Darwin Joaquin Alarcon Briones 
+>>>>>>> f2bf7e3fc202084681f4b5521008c73197943e17
 </author>
 
 <!--Personaliza la aplicacion y plataforma -->
